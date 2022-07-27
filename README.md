@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JGourdeauManifold!
-- 🧬 This is where I work on projects with Manifold Bio!
+- 🧬 This is where I work on projects with [Manifold Bio](https://www.manifold.bio/)!
 
 
 <!---
